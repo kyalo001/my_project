@@ -1,0 +1,1 @@
+for data science we use python and sql for languages, jupyter notebook, and vs code for interface, git and github for version control, anaconda and pypi for packages and libraries 
